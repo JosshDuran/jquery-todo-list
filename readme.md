@@ -7,8 +7,6 @@ In this assignment, you're going put together everything you've learned about li
 * Fork and clone this repository
 * Run `npm install` to install dependencies
   * `npm start` - start the BrowserSync server
-  * `npm run lint:css` - lint CSS
-  * `npm run lint:js` - lint JS
 * Load jQuery on the page by using a CDN link. See below.
 
 #### Loading Dependencies
